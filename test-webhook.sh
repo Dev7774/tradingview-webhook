@@ -87,3 +87,4 @@ echo "3. Configure TradingView to send alerts to:"
 echo "   $BASE_URL/api/webhook/receive"
 echo ""
 
+

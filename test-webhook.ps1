@@ -169,3 +169,4 @@ Write-Host "3. Configure TradingView to send alerts to:" -ForegroundColor White
 Write-Host "   $BaseUrl/api/webhook/receive" -ForegroundColor Cyan
 Write-Host ""
 
+
